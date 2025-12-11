@@ -144,7 +144,7 @@ class KnowledgeGraph:
             print(f"\n[ERRO] Ocorreu um erro ao gerar o gráfico. Certifique-se de que a ferramenta Graphviz está instalada e no PATH do sistema. Erro: {e}")
 
 # ... (Resto das Funções Interativas permanecem as mesmas, incluindo main e menus) ...
-# O código completo seria idêntico ao anterior, com esta única modificação no método.
+
 
 def registrar_jogo(kg, times_ids):
     # Função para registrar jogo (mantida para completar o código)
