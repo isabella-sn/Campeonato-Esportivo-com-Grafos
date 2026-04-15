@@ -47,6 +47,21 @@ O projeto pode ser aplicado em contextos acadêmicos, estudos de grafos, sistema
 
 ---
 
+> ⚠️ É necessário ter o **Graphviz instalado no sistema** para gerar a imagem.
+
+---
+
+## 🚀 Como Executar o Projeto
+
+### 1️⃣ Pré-requisitos
+- Python 3.8 ou superior
+- Graphviz instalado no sistema
+- Biblioteca Python `graphviz`
+
+### 2️⃣ Instalar dependências
+```bash
+pip install graphviz
+
 ## 🖼️ Visualização do Grafo
 
 O sistema gera automaticamente uma imagem `.png` do grafo com:
